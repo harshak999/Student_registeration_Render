@@ -1,7 +1,7 @@
-package com.example.FaizanSayaniProject.Controller;
+package com.example.HarshakProject.Controller;
 
-import com.example.FaizanSayaniProject.Entity.Student;
-import com.example.FaizanSayaniProject.Service.StudentService;
+import com.example.HarshakProject.Entity.Student;
+import com.example.HarshakProject.Service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

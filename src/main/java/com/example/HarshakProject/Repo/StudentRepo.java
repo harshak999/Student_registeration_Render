@@ -1,6 +1,6 @@
-package com.example.FaizanSayaniProject.Repo;
+package com.example.HarshakProject.Repo;
 
-import com.example.FaizanSayaniProject.Entity.Student;
+import com.example.HarshakProject.Entity.Student;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 public interface StudentRepo extends MongoRepository<Student, String> {
